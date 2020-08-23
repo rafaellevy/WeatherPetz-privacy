@@ -60,6 +60,7 @@ Please note that you can decline a permission or revoke it after you granted it 
 - Please contact us if you have any questions or concerns.
 
 ***Rafael Levy***
+
 srlevy1@gmail.com
 
 
