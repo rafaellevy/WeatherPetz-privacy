@@ -1,92 +1,66 @@
-## <a name="markdown-pane"></a>ReadMe
-**Beauty in the Air** lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation
+## <a name="markdown-pane"></a>Miss Sun Privacy Policy
+**Last updated**: 08/22/2020
 
-  - Real time weather conditions
-  - Real time air quality index
-  - Moon phase 
+Hi! I'm the developer of Miss Sun. This privacy policy describes how we process your personal information and which privacy rights you have when you are using Miss Sun. Please contact us at the contact information below if you have any questions or comments.
+
+  1. Personal Information Collection and Use
+  2. Personal Information Sharing
+  3. Tracking Technologies
+  4. Social Logins
+  5. In-app Purchase Information
+  6. Children's Personal Information
+  7. How Long We Keep Your Personal Information
+  8. How We Protect Your Personal Information
+  9. Policy Changes
+  10. Accessibility
+  11. Contact Us
  
-# Design
 
-There are two View Controllers 
-
-  - #### Home Screen
-
-  
-  
-  
-  
-  
-  
-  ![](/Users/rafaellevy/Desktop/allow.png)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    - Displays nine layers of animation based on the data retrieved from the APIs
-    - Animation views based on [GPUImage](https://github.com/BradLarson/GPUImage) & [VideoTransparentBackground](https://github.com/agordeev/VideoTransparentBackground)
-    - Weather updates every five minutes and moon updates once a day based on location
-	
+#### 1. Personal Information Collection and Use
+If you grant Miss Sun permission, we may collect and use personal information from you as follows.
+ - Location Services
+ 
+Purpose: Could we get your location in order to show you your local weather and air quality
+Please note that you can decline a permission or revoke it after you granted it in the iOS settings. If you do so, the functionality of Miss Sun may be limited as a result.
    
-- #### Detail Screen 
-	- Displays API data as numeric values or helpful tips. The following values are displayed: 
+#### 2. Personal Information Sharing
+- We do not share any personal information.
+#### 3. Tracking Technologies
+- Neither Miss Sun nor any third party services are using tracking technologies.     
 
-    Parameters  | Info 
-    ------------- |-------------
-    AQI  | Air Quality Index
-    Temperature  | Celsius and Farenheit
-    Humidity |  Relative ( % ) 
-    Wind | Mph and Km/h
-    UV | Ultraviolet index
-    Moon | Moon Phase
-    
-    
-    
-    - Wind direction is displayed graphically as a compass arrow
-    - Air quality is shown using [MKMagneticProgress](https://github.com/malkouz/MKMagneticProgress)
+#### 4. Social Logins
+- Miss Sun does not use any social login functionality.
 
+#### 5. In-app Purchase Information
 
+- Miss Sun does not process any in-app purchase information.
 
+#### 6. Children's Personal Information
 
-### Model
-- Handles the raw values from the different APIs and categorizes each aspect of the weather for displaying the appropriate tips and animations.
-- Handles location collection and management
-- Interacts with the networking layer
-- Interacts with CoreData      
+- Users of Miss Sun must be at least 13 years old. We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child, we will take all reasonable steps to delete it as soon as possible. If you become aware that a child has provided personal information to us, please contact us at the contact information below.
 
-# Persistence
-Beauty in the air uses [CoreData](https://developer.apple.com/documentation/coredata) to save preferences:  
+#### 7. How Long We Keep Your Personal Information
 
-- Temperature and speed units
-- Selected character
-- Useful tips displayed 
+ - We do not collect any personal information
 
-# API
+#### 8. How We Protect Your Personal Information
 
-Beauty in the sky uses a number of projects to work properly:
+- We do not collect any personal information
 
-* [OpenWeather](https://openweathermap.org/) - Weather and Ultraviolet
-* [AirNow](https://docs.airnowapi.org/) - Air Quality
-* [SunMoonCalc](https://rapidapi.com/kirs26/api/sunmooncalc/details) - Moon Phase 
+#### 9. Policy Changes
 
+- When we make material changes to this privacy policy, for example, due to app updates or changes in the law, we will post the updated policy here. The policy will always apply in the version at the time of your use of Miss Sun even if you downloaded Miss Sun at a time when a previous policy version was applicable.
 
-# Requirements
+#### 10. Accessibility
 
-- [Xcode](https://developer.apple.com/xcode/) v9+ to run.
+- Unfortunately there are no accessibility features in this version of the app.
 
-- Swift 4.2
+#### 11. Contact Us
 
-License
-----
+- Please contact us if you have any questions or concerns.
 
-MIT
+***Rafael Levy***
+srlevy1@gmail.com
 
-
-**Free softaware**
 
 	
