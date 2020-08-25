@@ -1,7 +1,7 @@
 ## <a name="markdown-pane"></a>Miss Sun Privacy Policy
 **Last updated**: 08/22/2020
 
-Hi! I'm the developer of Miss Sun. This privacy policy describes how I process your personal information and which privacy rights you have when you are using Miss Sun. Please contact us at the contact information below if you have any questions or comments.
+Hi! I'm the developer of Miss Sun. This privacy policy describes how I process your personal information and which privacy rights you have when you are using Miss Sun. Please contact me at the contact information below if you have any questions or comments.
 
   1. Personal Information Collection and Use
   2. Personal Information Sharing
