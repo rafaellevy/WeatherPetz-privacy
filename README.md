@@ -1,7 +1,7 @@
 ## <a name="markdown-pane"></a>Weather Pets Privacy Policy
 **Last updated**: 08/22/2020
 
-Hi! I'm the developer of Weather Pets. This privacy policy describes how I process your personal information and which privacy rights you have when you are using Miss Sun. Please contact me at the contact information below if you have any questions or comments.
+Hi! I'm the developer of Weather Pets. This privacy policy describes how I process your personal information and which privacy rights you have when you are using Weather Pets. Please contact me at the contact information below if you have any questions or comments.
 
   1. Personal Information Collection and Use
   2. Personal Information Sharing
@@ -29,11 +29,11 @@ Please note that you can decline a permission or revoke it after you granted it 
 - Neither WeatherPets nor any third party services are using tracking technologies.     
 
 #### 4. Social Logins
-- Miss Sun does not use any social login functionality.
+- WeatherPets does not use any social login functionality.
 
 #### 5. In-app Purchase Information
 
-- Miss Sun does not process any in-app purchase information.
+- WeatherPets does not process any in-app purchase information.
 
 #### 6. Children's Personal Information
 
@@ -49,7 +49,7 @@ Please note that you can decline a permission or revoke it after you granted it 
 
 #### 9. Policy Changes
 
-- When we make material changes to this privacy policy, for example, due to app updates or changes in the law, we will post the updated policy here. The policy will always apply in the version at the time of your use of Miss Sun even if you downloaded WeatherPets at a time when a previous policy version was applicable.
+- When we make material changes to this privacy policy, for example, due to app updates or changes in the law, we will post the updated policy here. The policy will always apply in the version at the time of your use of WeatherPets even if you downloaded WeatherPets at a time when a previous policy version was applicable.
 
 #### 10. Accessibility
 
